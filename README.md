@@ -1,8 +1,12 @@
-# React + Vite
+# Demo 
+🔗https://simple-movie-list-alpha.vercel.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Screenshots
+![simpple-poster-movie-list](https://github.com/Ikhwanwp/simple-movie-list/assets/38366920/463aba6e-6060-489c-982d-2ce4ca719872)
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Client:** React and TailwindCSS
+
+**Frontend Tooling:** Vite
+
